@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mobile accessories="">
+<charger cate="samsung" xmlns:c="http://charger's/web">
+<name>samsung</name>
+<price>900</price>
+<disc>100</disc>
+</charger>
+
+</mobile>
